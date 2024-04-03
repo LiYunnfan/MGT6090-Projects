@@ -16,19 +16,3 @@ To get started with this project, clone this repository to your local machine:
 \```bash
 git clone <repository-url>
 \```
-
-### Requirements
-
-Ensure you have Python 3.8 or above installed. You can install all dependencies using:
-
-\```bash
-pip install -r requirements.txt
-\```
-
-## Usage
-
-To run the hazard detection model, execute the following command:
-
-\```bash
-python run_hazard_detection.py
-\```
