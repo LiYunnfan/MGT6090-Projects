@@ -1,4 +1,3 @@
-"""
 # Dynamic Delta Hedging Strategy in C++
 
 ## Overview
